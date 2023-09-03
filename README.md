@@ -40,7 +40,7 @@ npm install -D vitepress
   },
 
 ```
-![packageJson]/showimages/packageJson.jpg)
+![packageJson](/showimages/packageJson.jpg)
 
 
 ## :pushpin: 本機執行
