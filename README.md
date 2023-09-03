@@ -56,6 +56,7 @@ npm run docs:dev
     - 例如 post 資料夾內有兩篇文章 (MD檔)，test1.md 與 test2.md
     - 同時進入該文章頁面時url會出現資料夾的path (http.../post/test1.html)
 - index.md => 首頁放在docs資料夾底下
+
 ``` json
 export default {
     themeConfig:{
@@ -87,6 +88,7 @@ export default {
     }
 }
 ```
+
 ![config](/showimages/config.jpg)
 ![LayoutConfig](/showimages/LayoutConfig.jpg)
 ![PageConfig](/showimages/PageConfig.jpg)
